@@ -1,1 +1,1 @@
-Wszystko znajduje się w folderze skrypt.
+Skopiuj wszystko z folderu skrypt do Google Chrome Console.
